@@ -7,5 +7,4 @@ to be used with various [JetBrains](http://www.jetbrains.com/) products (Intelli
 ## Installation
 
 Copy content of the `templates` folder to a directory with live templates of your IDE, ex:
-* OSX:
-    * `/Users/pawelkozlowski/Library/Preferences/WebStorm8/templates`
+* OSX: `~/Library/Preferences/WebStorm8/templates`
